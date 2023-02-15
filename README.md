@@ -1,3 +1,3 @@
-# Bookster - Plan your stay easily
+# Bookster - Plan your stay
 
 A full stack hotel booking website
